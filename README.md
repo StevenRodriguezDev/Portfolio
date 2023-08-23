@@ -19,4 +19,6 @@ To add a screenshot, create an `assets/images` folder in your repository and upl
 
     ```md
     ![alt text](./assets/images/screenshot.png)
+    <img width="720" alt="screenshot" src="https://github.com/StevenRodriguezDev/Portfolio/assets/54337759/a7f3eae0-7288-4ac7-9173-ee5dfa4eea82">
+
 
