@@ -13,11 +13,8 @@ no installation necessary
 
 ## Usage
 
-Provide instructions and examples for use. Include screenshots as needed.
+My portfolio is a compilation of academic and professional materials that exemplifies beliefs, skills, qualifications, education, training, and experiences. It provides insight into my personality and work ethic.
+Include screenshots as needed.
     <img width="720" alt="screenshot" src="https://github.com/StevenRodriguezDev/Portfolio/assets/54337759/a7f3eae0-7288-4ac7-9173-ee5dfa4eea82">
-To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
-
-    ```md
-    ![alt text](./assets/images/screenshot.png
 
 
